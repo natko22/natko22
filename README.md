@@ -1,5 +1,4 @@
-### Hi there 👋
-<h1 align="center">Hi 👋, I'm Natassa</h1>
+<h3 align="center">Hi 👋, I'm Natassa</h3>
 - 🔭 I’m currently being a student at **IRONHACK**
 
 - 🌱 I’m currently learning **HTML,Css,Javascript and React**
