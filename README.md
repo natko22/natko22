@@ -5,3 +5,5 @@
 - 🔭 I’m currently being a student at <i>IRONHACK</i>
 
 - 🌱 I’m learning **Html,Css,Javascript and React**
+
+- 👀 I'm intersted in books,design,drawing and photography.
