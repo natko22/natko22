@@ -1,6 +1,6 @@
 <h3 align="center">Hi 👋, I'm Natassa</h3>
 
-👋 Recent IRONHACK Graduate | 🌱 Full Stack Web Developer | 💻 HTML | 🎨 CSS | 🚀 JavaScript | ⚛️ React
+ 🌱 Full Stack Web Developer | 💻 HTML | 🎨 CSS | 🚀 JavaScript | ⚛️ React
 
 Hello there! I recently graduated from IRONHACK, and I'm passionate about web development. My journey has led me to learn essential technologies like HTML, CSS and JavaScript. I'm also exploring the exciting world of React.
 
