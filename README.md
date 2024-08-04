@@ -23,6 +23,11 @@ On my GitHub, you'll find my projects, where I showcase my progress as a Web Dev
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-000000?style=for-the-badge&logo=websocket&logoColor=white)
+
+
+
 
 ---
 
