@@ -27,28 +27,3 @@ On my GitHub, you'll find my projects, where I showcase my progress as a Web Dev
 ![WebSocket](https://img.shields.io/badge/WebSocket-000000?style=for-the-badge&logo=websocket&logoColor=white)
 
 
-
-
----
-
-## 📊 GitHub Stats:
-
-![Natassa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=natko22&show_icons=true&theme=synthwave)
-
----
-
-## 🔥 Streak Stats:
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=natko22&theme=synthwave)
-
----
-
-
-
-## 📈 Most Used Languages:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natko22&langs_count=8&theme=synthwave)
-
----
-
-
